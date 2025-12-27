@@ -1,8 +1,9 @@
-# Scheda D&D 5e
+# D&D 5e Character Sheet
 
-"Scheda D&D 5e" è un’applicazione che consente a tutti i giocatori di Dungeons & Dragons di gestire
-i propri personaggi e le proprie campagne. Grazie alla nostra app si potranno creare e gestire i
-personaggi e le campagne condividendole con i propri gruppi di amici!
+"D&D 5e Character Sheet" is an application that allows all Dungeons & Dragons players to manage their characters and campaigns. With our app, you can create and manage characters and campaigns and share them with your groups of friends!
+
+## 👥 Credits
+I [@MrPio](https://github.com/MrPio) authored both the design and implementation of the application. [@Ems01](https://github.com/Ems01) and [@fedeStaffo](https://github.com/fedeStaffo) helped me design the application logic and the rules of the game.
 
 ## Screens
 
